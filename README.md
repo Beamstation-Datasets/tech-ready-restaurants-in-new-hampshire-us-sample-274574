@@ -9,9 +9,9 @@
 | Dataset ID | `274574` |
 | Location | New Hampshire |
 | Category | Restaurants |
-| Full dataset size | 4 records |
-| Free sample size | 1 records (25.0%) |
-| Last export | 2026-04-15T08:38:57.103206+00:00 |
+| Full dataset size | 2 records |
+| Free sample size | 1 records (50.0%) |
+| Last export | 2026-04-22T15:56:29.969533+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-new-hampshire-us-sample-274574/releases/download/sample-latest/beamstation_274574_restaurants-us-nh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
