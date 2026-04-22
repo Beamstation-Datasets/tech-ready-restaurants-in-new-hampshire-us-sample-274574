@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5ac5a978-604b-4d6c-bcc2-01e67e65e7c6",
+  "export_job_id": "7b67cbbe-b518-4b0e-9ea6-4be67cd657b3",
   "id_short": 274574,
-  "published_at": "2026-04-19T07:24:05Z",
+  "published_at": "2026-04-22T19:29:15Z",
   "repo_name": "tech-ready-restaurants-in-new-hampshire-us-sample-274574",
   "sample_asset_name": "beamstation_274574_restaurants-us-nh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/274574/beamstation_274574_restaurants-us-nh_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "8afe0c4fbe2272ef74df397b51237f7bc59d1b48ae48e9b861a1ed3d5ec286c2",
-  "sample_size_bytes": 20477,
-  "total_records": 4
+  "sample_sha256": "106f4e360649b613aab388053bcea18831464a6874e33a04f08e33f456d2f541",
+  "sample_size_bytes": 20486,
+  "total_records": 2
 }
